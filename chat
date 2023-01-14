@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+<title>Funny chat</title>
+</head>
+<body>
+<widgetbot
+    server="1063689437655085136"
+    channel="1063690774526578758"
+    width="800"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+</body>
+</html>
